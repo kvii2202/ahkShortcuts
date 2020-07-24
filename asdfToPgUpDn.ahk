@@ -23,3 +23,6 @@ Space & a::Home
 Space & s::PgDn
 Space & d::PgUp
 Space & f::End
+
+; dd to del a line
+; Space & d & d :: Send,
