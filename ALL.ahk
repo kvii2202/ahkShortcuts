@@ -9,3 +9,4 @@
 #Include, hjklToUpDn.ahk
 #Include, xToBsDel.ahk
 #Include, uoyToCtrlZNewLineCtrly.ahk
+#Include, ebToForward.ahk
